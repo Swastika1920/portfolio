@@ -1,0 +1,74 @@
+html,body
+{
+    height:100%;
+    width: :100%
+}   
+
+.img_logo
+{
+    position:fixed
+}
+
+
+
+#intro
+{
+    background: url(../images/yo%20crabs.jpg) no-repeat fixed;
+    height: 100%;
+    width:100%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    position:relative;
+    
+}
+#jumbo
+{
+    background:transparent;
+    
+}
+
+.text-center
+{
+    text-align: center;
+    vertical-align: middle;
+
+}
+
+.mybox
+{
+border:2px;
+box-shadow:5px 5px 5px 5px grey;
+    border-bottom-style:groove;
+}
+
+#interest
+{
+    background: url(../images/yoyocrab.jpg) no-repeat fixed;
+    height: 100%;
+    width:100%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    position:relative;
+    
+}
+.pad-center
+{
+    padding: 50px;
+}
+#jumbo11
+{
+     background: url(../images/chelsea.jpg) no-repeat fixed;
+    height: 100%;
+    width:100%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    position:relative;
+    opacity: 0.6;
+    filter: opacity(alpha 60%);
+}
